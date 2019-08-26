@@ -1,0 +1,20 @@
+{
+    
+    "name": "Inpex Theme",
+
+    "dataColors": [
+        "#444088",
+        "#0091B5",
+        "#80BFE5",
+        "#008852",
+        "#38A1A1",
+        "#646464",
+        "#CDCDCD",
+        "#67D4CC",
+		"#191919"
+    ],
+
+    "background": "#ffffff",
+    "foreground": "#980249",
+    "tableAccent": "#444088"
+}
